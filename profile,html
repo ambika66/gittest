@@ -1,0 +1,107 @@
+
+ <!DOCTYPE html>
+
+
+<html>
+    <head>
+        <title>student resume</title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body>
+        <body>
+            
+            
+            <div class="container">
+                <img src="https://tse4.mm.bing.net/th?id=OIP.FsU55nWtsX9BrIt7AF1Z8wHaDz&pid=Api&P=0.jpg" height="100px">
+                
+                
+                <nav >
+                    <ul class="items">
+                        <li><a href="index.html">Home page</a></li> 
+                        <li> <a href="aboutus.html">aboutus</a></li>
+                        <li>
+                            <a href="contactus.html">contact us</a> 
+                        </li>
+                        <li>
+                            <a href="login.html">Login</a>
+                        </li>
+                        <li>
+                            <a href="register.html">register</a>
+                        </li>
+                        <li>
+                            <a href="profile.html">profile</a>
+                        </li>
+                  
+                    </ul>
+                </nav>
+                
+            
+        </div >
+            <main>
+                <section>
+                    <div>
+
+                    
+        <img src="https://wallpapercave.com/wp/wp2506920.jpg" width="150" height="150"
+        <img align="right">
+        <h1 align="center"><b>My resume</b></h1>
+        
+        <h2>&nbsp&nbsp&nbspAddress :kphb</h2>
+        <h2>&nbsp&nbsp&nbspPhone No:9948214477</h2>
+        <h2>&nbsp&nbsp&nbspEmail id:ambika@gmail.com</h2>
+       
+        <hr>
+
+        
+       <h1><u>Personal Details</u></h1>
+       
+
+       
+       <h2>&nbsp&nbsp&nbspName       :Ambika</h2></th>
+       <h2>&nbsp&nbsp&nbspRollno     :20b81a0565</h2>
+       <h2>&nbsp&nbsp&nbspD.O.B      :11_03_02</h2>
+       <h2>&nbsp&nbsp&nbspFather Name:thimmana</h2>
+       <h2>&nbsp&nbsp&nbspMother Name:lavanya </h2>
+       
+       <h1><u>Academic Details</u></h1>
+       <h2><table border="1" cell padding="5" cell spacing="5">
+        <thead>
+            <th>    </th>
+            <th>academic name</th>
+            <th>duration</th>
+        </thead>
+    </tbody></h2>
+    <h3>
+    <tr>
+        <td>school name </td>
+        <td>bapuji High School </td>
+        <td>2005-2018</td>
+    </tr>
+        <tr>
+            <td>inter clg name </td>
+            <td>Narayana  </td>
+            <td>2018-2020</td>
+        </tr>
+        <tr>
+            <td>btech clg name </td>
+            <td>Cvr clg of engineering  </td>
+            <td>2020_current yr</td>
+        </tr>
+    
+    </h3>
+    </tbody>
+
+    </table>
+    <h2><u>skills</u></h2>
+    <h3><p>java,c,app development</p></h3>
+</div>
+</section>
+</main>
+<footer>       
+    <h1 style="color:black;">Follow us on</h1>
+    
+   <h1 align="center" ><a href="http://cvr.ac.in">@cvr college of engineering</a></h1>
+</footer> 
+            </body>
+</html>
+
